@@ -1,0 +1,2 @@
+# exemploInicialJogo
+jogo de enigmas
